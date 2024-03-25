@@ -1,2 +1,2 @@
 # Java-Lab
-j lab notes
+this notes is from lab shit
