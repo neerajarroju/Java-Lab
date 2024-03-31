@@ -1,2 +1,2 @@
 # Java-Lab
-this notes is from lab shit
+lb ns v upld
